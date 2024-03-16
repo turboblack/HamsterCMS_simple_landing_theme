@@ -1,4 +1,4 @@
-# HamsterCMS_simple_landing_theme
+# HamsterCMS simple landing theme
 
 To use a template, create an **echoes1** folder in the **templates** folder, copy all the files there, open the admin panel on the hosting, select the page, and specify this template in the options.
 
